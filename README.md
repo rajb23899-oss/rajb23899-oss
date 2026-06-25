@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**rajb23899-oss/rajb23899-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **Python, Django & REST APIs**
+- 💼 Open to **Python Developer** roles
+- 🤝 Looking to collaborate on **backend and web development projects**
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/10Op6BJLqMt7bDAx0fWkpaECahOrUDPpy/view?usp=drive_link)
+- 📫 Reach me: gollamanjunatha.2004@gmail.com
+- ⚡ Passionate about writing clean code and solving real-world problems
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
