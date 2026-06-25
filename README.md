@@ -11,8 +11,7 @@
 <h3 align="center">🚀 Python Developer | B.Tech Graduate</h3>
 
 <p align="center">
-  Passionate about building scalable web applications, solving challenging problems, and creating impactful digital experiences. 
-  I enjoy turning complex ideas into simple, intuitive, and responsive designs.
+ Passionate Python Developer with a strong foundation in Python, Django, MySQL, HTML, CSS, and REST APIs. Enthusiastic about building scalable backend applications, writing clean and efficient code, and solving real-world problems through technology. Continuously learning new tools and frameworks while contributing to user-focused and reliable software solutions.
 </p>
 
 
