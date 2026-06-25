@@ -5,20 +5,17 @@
 
 <!-- Title -->
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Manikanta Kondakayala
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" /> I'm Golla Manjunatha
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | B.Tech ECE Graduate</h3>
+<h3 align="center">🚀 Python Developer | B.Tech Graduate</h3>
 
 <p align="center">
   Passionate about building scalable web applications, solving challenging problems, and creating impactful digital experiences. 
   I enjoy turning complex ideas into simple, intuitive, and responsive designs.
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmanikanta9&label=Profile%20Views&color=0e75b6&style=flat" alt="kmanikanta9" />
-</p>
+
 
 ---- 
 
