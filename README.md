@@ -23,8 +23,8 @@
 - 🌱 Currently learning **Python, Django & REST APIs**
 - 💼 Open to **Python Developer** roles
 - 🤝 Looking to collaborate on **backend and web development projects**
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/10Op6BJLqMt7bDAx0fWkpaECahOrUDPpy/view?usp=drive_link)
-- 📫 Reach me: gollamanjunatha.2004@gmail.com
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1xlWOVZL3_2sK89gLIkvRKhaVYpjBIYIH/view?usp=drive_link)
+- 📫 Reach me: gollamanjunatha98@gmail.com
 - ⚡ Passionate about writing clean code and solving real-world problems
 
 ## 🛠️ Tech Stack
